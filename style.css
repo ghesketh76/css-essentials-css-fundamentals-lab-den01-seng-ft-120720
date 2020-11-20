@@ -16,7 +16,7 @@ img {
   }
   
  a {
-  display: block; 
+  display: inline-block; 
   margin-left: 10px;
   margin-right: 10px;
   background-color: grey;
